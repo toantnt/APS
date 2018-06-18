@@ -1,0 +1,812 @@
+@media screen and (min-width: 1600px) and (max-width: 1920px) {
+	.related-like .item-collect img, #owl-related .item img {
+		height: 330px;
+		width: 100%;
+		object-fit: cover;
+		background: #fff;
+	}
+	.woo-list .item-collect img {
+		height: 340px;
+		width: 100%;
+		object-fit: scale-down;
+		background: #fff;
+	}
+	.banner h2 { margin-top: 56%; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 20%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 48%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+}
+@media screen and (min-width: 1425px) and (max-width: 1583px) {
+	.related-like .item-collect img, #owl-related .item img {
+		height: 330px;
+		width: 100%;
+		object-fit: cover;
+		background: #fff;
+	}
+	.woo-list .item-collect img {
+		height: 340px;
+		width: 100%;
+		object-fit: scale-down;
+		background: #fff;
+	}
+	.banner h2 { margin-top: 56%; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 18%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 48%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+}
+@media screen and (min-width: 1400px) and (max-width: 1425px) {
+	.related-like .item-collect img, #owl-related .item img {
+		height: 330px;
+		width: 100%;
+		object-fit: cover;
+		background: #fff;
+	}
+	.woo-list .item-collect img {
+		height: 340px;
+		width: 100%;
+		object-fit: scale-down;
+		background: #fff;
+	}
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 18%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 48%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+}
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+	.related-like .item-collect img, #owl-related .item img {
+		height: 330px;
+		width: 100%;
+		object-fit: cover;
+		background: #fff;
+	}
+	.woo-list .item-collect img {
+		height: 340px;
+		width: 100%;
+		object-fit: scale-down;
+		background: #fff;
+	}
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 16%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 48%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+}
+
+
+@media only screen and (min-width: 800px) and (max-width: 992px) {
+	
+	.header .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.banner h2 { position: static; }
+	.intro img { width: 100%; height: auto; }
+	input[name="s"] { width: 67%; }
+	.navbar-default {
+    	display: flex;
+    	justify-content: right;
+	}
+	.navbar-collapse {
+		width: 100%;
+	}
+	.our-team .team-person img {
+		width: 460px;
+		height: 460px;
+		object-fit: cover;
+		display: block;
+		margin: 20px auto;
+	}
+	.gallery-img img { margin-bottom: 20px; }
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	#owl-related .owl-pagination {
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 20%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 48%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	.intro h2 {
+        margin-top: 80%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+}
+@media screen and (min-width:769px) and (max-width: 799px) {
+	.header .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }	
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+	.owl-products .item img { width: 100%; height: auto; }
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+	.intro h2 {
+        margin-top: 80%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+}
+
+@media screen and (min-width:767px) and (max-width: 768px) {
+	.header .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.banner h2 { position: static; }
+	.intro img { width: 100%; height: auto; }
+	input[name="s"] { width: 67%; }
+	.navbar-default {
+    	display: flex;
+    	justify-content: right;
+	}
+	.navbar-collapse {
+		width: 100%;
+	}
+	.navbar-default {
+		display: block;
+	}
+	.our-team .team-person img {
+		width: 460px;
+		height: 460px;
+		object-fit: cover;
+		display: block;
+		margin: 20px auto;
+	}
+	.gallery-img img { margin-bottom: 20px; }
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	#owl-related .owl-pagination {
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.nav-bottom ul li { margin: 0 8px; }
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	.owl-related-post .owl-pagination { margin-top: 10px; margin-left: 0; }
+	.item-full hr { margin-top: 14pt; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 31%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 46%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+	.owl-products .item img { width: 100%; height: auto; }
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 100%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+}
+@media screen and (min-width: 700px) and (max-width: 766px) {
+	.header .logo img { width: 70px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.navbar-toggle {
+		padding: 0;
+		float: right;
+		color: #fff;
+	}
+	.play-click {
+		margin: 0 46%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+	.owl-products .item img { width: 100%; height: auto; }
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 76%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+}
+@media screen and (min-width: 620px) and (max-width: 760px) {
+	.header .logo img { width: 70px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.navbar-toggle {
+		padding: 0;
+		float: right;
+		color: #fff;
+	}
+	.banner h2 { position: static; }
+	.intro img { width: 100%; height: auto; }
+	input[name="s"] { width: 67%; }
+	.navbar-default {
+    	display: flex;
+    	justify-content: right;
+	}
+	.navbar-collapse {
+		width: 100%;
+	}
+	.navbar-default {
+		display: block;
+	}
+	.navbar-nav { padding-left: 30px; }
+	.our-team .team-person img {
+		width: 430px;
+		height: 430px;
+		object-fit: cover;
+		display: block;
+		margin: 20px auto;
+	}
+	.gallery-img img { margin-bottom: 20px; }
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	#owl-related .owl-pagination {
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.nav-bottom ul li a { font-size: 13px; font-family: "HelveticaLight"; padding: 0; }
+	.nav-bottom ul li { margin: 0 8px; }
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	.owl-related-post .owl-pagination { margin-top: 10px; margin-left: 0; }
+	.item-full hr { margin-top: 14pt; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 24%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 46%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	.content-collection { padding-right: 0px; }
+	.content-collection .btn, .contact-page .btn { width: auto; }
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+	.owl-products .item img { width: 100%; height: auto; }
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 76%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+}
+@media screen and (min-width: 521px) and (max-width: 619px) {
+	.header .logo img { width: 70px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.navbar-toggle {
+		padding: 0;
+		float: right;
+		color: #fff;
+	}
+	
+	.navbar-nav { padding-left: 30px; }
+	.banner h2 { position: static; }
+	.intro img { width: 100%; height: auto; }
+	input[name="s"] { width: 67%; }
+	.navbar-default {
+    	display: flex;
+    	justify-content: right;
+	}
+	.navbar-collapse {
+		width: 100%;
+	}
+	.navbar-default {
+		display: block;
+	}
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	#owl-related .owl-pagination {
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.aboutus .gallery-img h2 { margin: 300px 0 0 20px; }
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	.owl-related-post .owl-pagination { margin-top: 10px; margin-left: 0; }
+	.item-full hr { margin-top: 14pt; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 31%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 46%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	.related-like .item-collect img, .woo-list .item-collect img { height: auto; }
+	.content-collection { padding-right: 0px; }
+	.content-collection .btn, .contact-page .btn { width: auto; }
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+	.owl-products .item img { width: 100%; height: auto; }
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 76%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+}
+@media screen and (max-width: 520px) {
+	.header .logo img { width: 70px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.navbar-toggle {
+		padding: 0;
+		float: right;
+		color: #fff;
+	}
+	
+	.navbar-nav { padding-left: 30px; }
+	.banner h2 { position: static; }
+	.intro img { width: 100%; height: auto; }
+	input[name="s"] { width: 67%; }
+	.navbar-default {
+    	display: flex;
+    	justify-content: right;
+	}
+	.navbar-collapse {
+		width: 100%;
+	}
+	.navbar-default {
+		display: block;
+	}
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	
+	#owl-related .owl-pagination {
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.aboutus .gallery-img h2 { margin: 300px 0 0 20px; }
+	.nav-bottom ul li a { font-size: 13px; font-family: "HelveticaLight"; padding: 0; }
+	.nav-bottom ul li { margin: 0 8px; }
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	.owl-related-post .owl-pagination { margin-top: 10px; margin-left: 0; }
+	.item-full hr { margin-top: 14pt; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 34%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 46%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	.related-like .item-collect img, .woo-list .item-collect img { height: auto; }
+	.content-collection { padding-right: 0px; }
+	.content-collection .btn, .contact-page .btn { width: auto; }
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	.owl-products .item img { width: 100%; height: auto; }
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 98%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+}
+@media screen and (max-width: 480px) {
+	.header .logo img { width: 70px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.navbar-toggle {
+		padding: 0;
+		float: right;
+		color: #fff;
+	}
+	.our-team .team-person img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+	}
+	.navbar-default {
+		display: block;
+	}
+	.navbar-nav { padding-left: 30px; }
+	.gallery-img img { margin-bottom: 20px; }
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.aboutus .gallery-img h2 { margin: 300px 0 0 20px; }
+	.nav-bottom ul li a { font-size: 13px; font-family: "HelveticaLight"; padding: 0; }
+	.nav-bottom ul li { margin: 0 8px; }
+	.item-post-gallery { width: 100%; }
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	.owl-related-post .owl-pagination { margin-top: 10px; margin-left: 0; }
+	.item-full hr { margin-top: 14pt; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 30%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 46%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	.owl-products .item img { width: 100%; height: auto; }
+	.related-like .item-collect img, .woo-list .item-collect img { height: auto; }
+	.content-collection { padding-right: 0px; }
+	.content-collection .btn, .contact-page .btn { width: auto; }
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 100%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+    .woo-list .item-collect .item-desc {
+	    height: 58px;
+	    overflow: hidden;
+    }
+}
+
+@media screen and (max-width: 320px) {
+	.header .logo img { width: 70px; display: block; margin: 0 auto; object-fit: contain; }
+	.header1 .logo img { width: 80px; display: block; margin: 0 auto; object-fit: contain; }
+	.navbar-toggle {
+		padding: 0;
+		float: right;
+		color: #fff;
+	}
+	.our-team .team-person img {
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+	}
+	.navbar-default {
+		display: block;
+	}
+	.navbar-nav { padding-left: 30px; }
+	.gallery-img img { margin-bottom: 20px; }
+	.related-collect {
+		float: left;
+		position: static;
+		height: 480px;
+	}
+
+	#owl-related .owl-pagination {
+		margin-top: 10px;
+		margin-left: 0;
+	}
+	#owl-related .item img {
+		display: block;
+		margin: 0 auto;
+	}
+	.aboutus .gallery-img h2 { margin: 300px 0 0 20px; }
+	.nav-bottom ul li a { font-size: 13px; font-family: "HelveticaLight"; padding: 0; }
+	.nav-bottom ul li { margin: 0 8px; }
+	.item-post-gallery { width: 100%; }
+	.row-gallery { padding: 0 15px; }
+	.row-gallery img { width: 100%; height: auto; }
+	.item-post-gallery { width: 100%; padding: 0 15px; }
+	.item-full h2 { margin-bottom: 20px; }
+	.owl-related-post .owl-pagination { margin-top: 10px; margin-left: 0; }
+	.item-full hr { margin-top: 14pt; }
+	#pause {
+		position: absolute;
+		right: 2%;
+		bottom: 25.6%;
+		cursor: pointer;
+	}
+	.play-click {
+		margin: 0 45.6%;
+	}
+	#play {
+		height: 60px;
+		object-fit: contain;
+	}
+	.related-like .item-collect img, .woo-list .item-collect img { height: auto; }
+	.content-collection { padding-right: 0px; }
+	.content-collection .btn, .contact-page .btn { width: auto; }
+	.owl-products .item img { width: 100%; height: auto; }
+	#profile input[type="text"], #profile input[type="password"], #profile input[type="number"], #profile input[type="email"], #profile input[type="phone"], #profile select {
+		width: 100% !important;
+		float: left;
+		display: block;
+		margin-bottom: 10px;
+	}
+	#profile .text-center {text-align: left}
+	.div.banner-p { background-position: center; }
+	.personal-content h2 { margin-top: 15px; }
+	.checkout div.checkbox { margin: 0 0 20px 20px; }
+	.checkoutForm { padding-right: 0; border-right: 0 }
+	.price_review, .short-qa { padding: 0 15px; }
+	.gallery-img img { margin-bottom: 15px; }
+	.content-sidebar { height: auto !important; }
+
+	.content-collection h2, .content-collection h3 {
+		margin-bottom: 20px;
+	}
+	.content-collection .add-cart {
+		margin: 15px 0;
+	}
+	.content-collection .btn { width: 35%; }
+	.content-collection .description { margin-bottom: 20px; }
+    .contact-content {
+        padding: 15px;
+    }
+    .intro h2 {
+        margin-top: 100%;
+    }
+    .owl-theme .owl-controls .owl-page span { width: 8px !important; height: 8px !important; }
+    .woo-list .item-collect { height: auto; width: 100%; margin-bottom: 25px; float: left; }
+    .woo-list .item-collect .item-desc {
+	    height: 58px;
+	    overflow: hidden;
+    }
+}
